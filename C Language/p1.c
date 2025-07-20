@@ -99,7 +99,7 @@ int main()
         if ((SourceFile == NULL) || (DestinationFile == NULL))
         {
             printf("File not exist");
-            exit(EXIT_FAILURE);                 //if file not exit then exit 
+            exit(EXIT_FAILURE);                 //if file not exist then exit 
         }
         else
         {

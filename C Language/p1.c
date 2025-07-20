@@ -12,8 +12,8 @@ int main()
     int choice = 0;
 
     char FileName[20] = {'\0'};
-    char SourFileName[100] = {'\0'};            //Source File
-    char DesFileName[100] = {'\0'};             //Desination file
+    char SourFileName[100] = {'\0'};            //Source File Name
+    char DesFileName[100] = {'\0'};             //Desination file Name
 
     char ch;
 
